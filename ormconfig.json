@@ -1,0 +1,1 @@
+{"type":"postgres","host":"localhost","port":5432,"username":"postgres","password":"","database":"dailiesdb","entities":["./dist/**/*.entity.js"],"migrationsTableName":"migrations","migrations":["/Users/vzhny/Documents/Projects/maple-dailies-api/src/config/../db/migrations/**/*{.ts,.js}"],"cli":{"migrationsDir":"./src/db/migrations"},"ssl":false}
